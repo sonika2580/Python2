@@ -1,2 +1,2 @@
 This is my new text file
-This is where we will do our commit changes logs.
+I like the idea of having new file for this project.
